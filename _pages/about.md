@@ -15,11 +15,11 @@ I earned my B.S. in Electrical Engineering from the **University of California, 
 
 ## Research & Key Projects
 
-### 🔬 Current Work
+### Current Work
 * **RISC-V Silicon Tapeout:** Designing and implementing a custom RISC-V processor, leading full-flow physical implementation, timing closure, and DRC/LVS verification for tapeout in a 40nm TSMC node.
 * **UCIe Interconnect Architecture:** Designing a die-to-die high speed interconnect chiplet based on the Universal Chiplet Interconnect Express (UCIe) open standard for tapeout in a 16nm TSMC node. 
 
-### 🛠️ Prior Research & Projects
+### Prior Research & Projects
 * **Mixed-Signal SpO₂ Monitor:** Designed a mixed-signal embedded device at UC Davis utilizing an AFE 4490 analog front-end and Teensy 4.1. Implemented real-time digital signal processing algorithms (MASIMO method) in Python to filter motion artifacts and maximize SNR.
 * **VR Cleanroom Protocol Assessment:** Conducted user studies evaluating cleanroom protocol training using Apple Vision Pro, co-developing interactive spatial computing simulations for 24 student participants.
 * **RISC-V Assembly & Cache Simulation:** Optimized matrix rotation algorithms using a recursive block-swap strategy in assembly and built a custom trace analyzer to optimize L1 cache miss rates down to 3.4%.
@@ -38,6 +38,6 @@ I earned my B.S. in Electrical Engineering from the **University of California, 
 
 ## Contact & Links
 
-* **Email:** [sebastian.najbjerg@gmail.com](mailto:sebastian.najbjerg@gmail.com)
+* **Email:** [snajbjer@engineering.upenn.edu](mailto:snajbjer@engineering.upenn.edu)
 * **CV:** [View / Download my CV](/cv/)
-* **Projects:** [Browse all projects](/projects/)
+* **Projects:** [Browse all projects](/portfolio/)
